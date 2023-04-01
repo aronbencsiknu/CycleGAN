@@ -1,5 +1,5 @@
 # CycleGAN
-CycleGAN based model for face image manipulation.
+CycleGAN model for face image manipulation.
 
 - - -
 1. Train and test data have to be supplied.
